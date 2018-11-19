@@ -1,4 +1,4 @@
-<h1 align="center">100 Days Of Code with Joe Warren</h1>
+<h1 align="center">100 Days of Code</h1>
 
 <img src="https://images.unsplash.com/photo-1454165205744-3b78555e5572?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=" alt="Image of laptop with code">
 
