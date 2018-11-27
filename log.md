@@ -23,6 +23,7 @@ Planned Projects
 - <a href="https://medium.com/@pakastin/javascript-playing-cards-part-1-ranks-and-values-a9c2368aedbd">JavaScript Playing Cards</a>
 - Pro HTML5 Games
 - Finish The Longest At-Bat
+- [CSS-Only Walking Dog](https://codepen.io/davidkpiano/pen/BGxgLa), but Bailey!
 
 <h2 align="center">
 Day 1: Wednesday February 1, 2017
